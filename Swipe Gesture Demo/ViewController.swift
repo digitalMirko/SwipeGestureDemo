@@ -9,12 +9,18 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var imageView: UIImageView!
+    @IBOutlet weak var swipeLabel: UILabel!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
 
+    
+    
 
 }
 

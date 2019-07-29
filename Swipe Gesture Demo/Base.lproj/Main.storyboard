@@ -59,6 +59,10 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="imageView" destination="FEC-9b-HUB" id="2t3-7l-8Mo"/>
+                        <outlet property="swipeLabel" destination="C2g-Ad-VoY" id="cXL-Xr-bzS"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
